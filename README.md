@@ -1,2 +1,2 @@
-LeanProject
+VaadinTemplate
 ===========
